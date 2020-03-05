@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM jenkins/ssh-slave
 
 LABEL Description="This image provides a base Android development environment for React Native, and may be used to run tests."
 
