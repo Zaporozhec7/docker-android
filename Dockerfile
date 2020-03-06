@@ -1,4 +1,4 @@
-FROM jenkins/ssh-slave
+FROM jenkins/jnlp-slave
 
 LABEL Description="This image provides a base Android development environment for React Native, and may be used to run tests."
 
